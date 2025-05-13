@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f75c23035d10345a754d9e1794f622, type: 3}
+  m_Name: BuildingPizza
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 100000, guid: 1d53359c70324d14c989d7058b50ec6b, type: 3}
+  category: 0
+  pivot: {x: 0, y: 0}
+  footprint:
+  - {x: -4, y: -4}
+  - {x: -3, y: -4}
+  - {x: -2, y: -4}
+  - {x: -1, y: -4}
+  - {x: 0, y: -4}
+  - {x: 1, y: -4}
+  - {x: 2, y: -4}
+  - {x: 3, y: -4}
+  - {x: -4, y: -3}
+  - {x: -3, y: -3}
+  - {x: -2, y: -3}
+  - {x: -1, y: -3}
+  - {x: 0, y: -3}
+  - {x: 1, y: -3}
+  - {x: 2, y: -3}
+  - {x: 3, y: -3}
+  - {x: -4, y: -2}
+  - {x: -3, y: -2}
+  - {x: -2, y: -2}
+  - {x: -1, y: -2}
+  - {x: 0, y: -2}
+  - {x: 1, y: -2}
+  - {x: 2, y: -2}
+  - {x: 3, y: -2}
+  - {x: -4, y: -1}
+  - {x: -3, y: -1}
+  - {x: -2, y: -1}
+  - {x: -1, y: -1}
+  - {x: 0, y: -1}
+  - {x: 1, y: -1}
+  - {x: 2, y: -1}
+  - {x: 3, y: -1}
+  - {x: -4, y: 0}
+  - {x: -3, y: 0}
+  - {x: -2, y: 0}
+  - {x: -1, y: 0}
+  - {x: 0, y: 0}
+  - {x: 1, y: 0}
+  - {x: 2, y: 0}
+  - {x: 3, y: 0}
+  - {x: -4, y: 1}
+  - {x: -3, y: 1}
+  - {x: -2, y: 1}
+  - {x: -1, y: 1}
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 2, y: 1}
+  - {x: 3, y: 1}
+  - {x: -4, y: 2}
+  - {x: -3, y: 2}
+  - {x: -2, y: 2}
+  - {x: -1, y: 2}
+  - {x: 0, y: 2}
+  - {x: 1, y: 2}
+  - {x: 2, y: 2}
+  - {x: 3, y: 2}
+  - {x: -4, y: 3}
+  - {x: -3, y: 3}
+  - {x: -2, y: 3}
+  - {x: -1, y: 3}
+  - {x: 0, y: 3}
+  - {x: 1, y: 3}
+  - {x: 2, y: 3}
+  - {x: 3, y: 3}
+  - {x: -4, y: 4}
+  - {x: -3, y: 4}
+  - {x: -2, y: 4}
+  - {x: -1, y: 4}
+  - {x: 0, y: 4}
+  - {x: 1, y: 4}
+  - {x: 2, y: 4}
+  - {x: 3, y: 4}
+  - {x: -4, y: -4}
+  - {x: -3, y: -4}
+  - {x: -2, y: -4}
+  - {x: -1, y: -4}
+  - {x: 0, y: -4}
+  - {x: 1, y: -4}
+  - {x: 2, y: -4}
+  - {x: 3, y: -4}
+  - {x: -4, y: -3}
+  - {x: -3, y: -3}
+  - {x: -2, y: -3}
+  - {x: -1, y: -3}
+  - {x: 0, y: -3}
+  - {x: 1, y: -3}
+  - {x: 2, y: -3}
+  - {x: 3, y: -3}
+  - {x: -4, y: -2}
+  - {x: -3, y: -2}
+  - {x: -2, y: -2}
+  - {x: -1, y: -2}
+  - {x: 0, y: -2}
+  - {x: 1, y: -2}
+  - {x: 2, y: -2}
+  - {x: 3, y: -2}
+  - {x: -4, y: -1}
+  - {x: -3, y: -1}
+  - {x: -2, y: -1}
+  - {x: -1, y: -1}
+  - {x: 0, y: -1}
+  - {x: 1, y: -1}
+  - {x: 2, y: -1}
+  - {x: 3, y: -1}
+  - {x: -4, y: 0}
+  - {x: -3, y: 0}
+  - {x: -2, y: 0}
+  - {x: -1, y: 0}
+  - {x: 0, y: 0}
+  - {x: 1, y: 0}
+  - {x: 2, y: 0}
+  - {x: 3, y: 0}
+  - {x: -4, y: 1}
+  - {x: -3, y: 1}
+  - {x: -2, y: 1}
+  - {x: -1, y: 1}
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 2, y: 1}
+  - {x: 3, y: 1}
+  - {x: -4, y: 2}
+  - {x: -3, y: 2}
+  - {x: -2, y: 2}
+  - {x: -1, y: 2}
+  - {x: 0, y: 2}
+  - {x: 1, y: 2}
+  - {x: 2, y: 2}
+  - {x: 3, y: 2}
+  - {x: -4, y: 3}
+  - {x: -3, y: 3}
+  - {x: -2, y: 3}
+  - {x: -1, y: 3}
+  - {x: 0, y: 3}
+  - {x: 1, y: 3}
+  - {x: 2, y: 3}
+  - {x: 3, y: 3}
+  - {x: -4, y: 4}
+  - {x: -3, y: 4}
+  - {x: -2, y: 4}
+  - {x: -1, y: 4}
+  - {x: 0, y: 4}
+  - {x: 1, y: 4}
+  - {x: 2, y: 4}
+  - {x: 3, y: 4}
+  upgrades:
+  - material: {fileID: 0}
+    scale: {x: 1, y: 1, z: 1}
+    details:
+    - prefab: {fileID: 100000, guid: 0fcc0b85550a21d4f8dea0cf26372739, type: 3}
+      localPosition: {x: 3.83, y: 6.45, z: -4.53}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      localPosition: {x: 4.91, y: -0, z: 8.29}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    incomeMultiplier: 1
+  - material: {fileID: 0}
+    scale: {x: 1, y: 1, z: 1}
+    details:
+    - prefab: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      localPosition: {x: -6, y: 0, z: 7.63}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 120449a04911a924ca1239be382ff0be, type: 3}
+      localPosition: {x: 4.44, y: 6.42, z: 2.8}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 800befcc62026a34693972077c91698d, type: 3}
+      localPosition: {x: 7.06, y: 0, z: 9.04}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    incomeMultiplier: 1
+  - material: {fileID: 0}
+    scale: {x: 1, y: 1, z: 1}
+    details:
+    - prefab: {fileID: 100000, guid: 120449a04911a924ca1239be382ff0be, type: 3}
+      localPosition: {x: 4.46, y: 6.41, z: 0.8}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      localPosition: {x: -1.8, y: 0, z: 8.67}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 0ee6d569ec3227e40888e8151b331e0f, type: 3}
+      localPosition: {x: -7.2, y: -0, z: 9.14}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 918397a7e0523114ea408fc4eb8ca157, type: 3}
+      localPosition: {x: -4.07, y: 6.36, z: -4.27}
+      localEulerAngles: {x: 0.000002504478, y: 0, z: 0}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    - prefab: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      localPosition: {x: 1.7, y: -0, z: 8.32}
+      localEulerAngles: {x: 0.0000007006673, y: 286.24622, z: -0.00000240447}
+      localScale: {x: 1, y: 1, z: 1}
+      isHidden: 0
+    incomeMultiplier: 1
+  incomePerSecond: 1
+  purchaseCost: 10
+  incomeAmount: 1
+  incomeInterval: 1
+  maxCount: 3
+  baseUpgradeCost: 1
+  upgradeMultiplier: 1
